@@ -30,7 +30,7 @@ sections:
         style: button
 seo:
   title: Kelvin Kang's Blog
-  description: The preview of the Fresh theme
+  description: Kelvin Kang's personal place
   extra:
     - name: 'og:type'
       value: website
