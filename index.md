@@ -7,7 +7,7 @@ sections:
     title: 'Hi, I''m Kelvin Kang.'
     content: >
       I am now work on GBSA(Gyeonggido Business & Science Accellerator), Cluster
-      Innovation Division Cluster Develope Team.
+      Innovation Division / Cluster Develope Team.
   - section_id: about
     type: section_content
     title: About
