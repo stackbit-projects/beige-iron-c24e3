@@ -82,4 +82,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
-domain: 'https://beige-iron-c24e3.netlify.app'
+domain: 'https://kelvink.github.io'
